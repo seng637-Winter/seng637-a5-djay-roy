@@ -34,11 +34,11 @@ This optimal data subset selection may be attributed to a marked rise in failure
 
 Time to Failure Plot of the two models:
 
-![TTF plot](media/time-between-failures.PNG)
+![TTF plot](media/timebetweenfailures.png)
 
 Intensity Plot
 
-![Intensity plot](media/intensity.PNG)
+![Intensity plot](media/intensity.png)
 
 As seen from the plot, the failure rate and mean time to failure (MTTF) for the original failure data and the predictions at the last interval (31) are:
 
